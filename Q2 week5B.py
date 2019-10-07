@@ -5,7 +5,7 @@ l1=list()
 for i in range(0,n):
     a=int(input(f"Enter The {i+1} Number:"))
     l1.append(a)
-k=0
+k=0.        #k
 for i in l1:
     if(i==5):
         k+=1
