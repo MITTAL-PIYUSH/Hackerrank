@@ -3,7 +3,7 @@ import random
 choice = 1
 while choice != 0 :
     
-    password = list()
+    password = list() #password
 
     for i in range(0,2):
 
